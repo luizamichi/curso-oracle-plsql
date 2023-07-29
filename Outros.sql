@@ -146,3 +146,53 @@
 -- Identificador: 089
 -- Tempo: 4m
 --
+
+
+--
+-- Curso: Oracle PL/SQL Especialista (do básico ao avançado) 2023
+-- Seção: 24 - PL/SQL Avançado - Bulk Collect
+-- Aula: 01 - Bulk Collect
+-- Autor: Emílio Scudero
+-- Identificador: 091
+-- Tempo: 5m
+--
+
+
+--
+-- Curso: Oracle PL/SQL Especialista (do básico ao avançado) 2023
+-- Seção: 24 - PL/SQL Avançado - Bulk Collect
+-- Aula: 02 - Associative Array of Records (Bulk Collect)
+-- Autor: Emílio Scudero
+-- Identificador: 092
+-- Tempo: 10m
+--
+
+
+--
+-- Curso: Oracle PL/SQL Especialista (do básico ao avançado) 2023
+-- Seção: 24 - PL/SQL Avançado - Bulk Collect
+-- Aula: 03 - Nested table of records (Bulk Collect)
+-- Autor: Emílio Scudero
+-- Identificador: 093
+-- Tempo: 4m
+--
+
+
+--
+-- Curso: Oracle PL/SQL Especialista (do básico ao avançado) 2023
+-- Seção: 24 - PL/SQL Avançado - Bulk Collect
+-- Aula: 04 - Varray of records (Bulk Collect)
+-- Autor: Emílio Scudero
+-- Identificador: 094
+-- Tempo: 5m
+--
+
+
+--
+-- Curso: Oracle PL/SQL Especialista (do básico ao avançado) 2023
+-- Seção: 24 - PL/SQL Avançado - Bulk Collect
+-- Aula: 05 - Utilizando métodos para controlar Collections
+-- Autor: Emílio Scudero
+-- Identificador: 095
+-- Tempo: 5m
+--
