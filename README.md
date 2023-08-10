@@ -8,3 +8,5 @@ Curso desenvolvido pelo instrutor [Emílio Scudero](https://www.udemy.com/user/e
 Versão do Oracle SQL utilizada: [Oracle Database 19c EE Extreme Perf Release 19.0.0.0.0](https://www.oracle.com).
 
 Horas totais de aula: 23,5 horas.
+
+Certificado de conclusão: [Udemy](https://www.udemy.com/certificate/UC-9afd88bb-84b5-4407-a53c-72ab9d5f8542).
